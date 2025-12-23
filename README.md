@@ -64,7 +64,7 @@ I am a recent graduate in **Applied AI & Smart Technology** with 8 months of int
 <div align="center">
 
 Connect with me:  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/นัทธพงศ์-ซื่อตรง-5b26533a1) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/นัทธพงศ์-ซื่อตรง-5b26533a1) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:t.nattapongst@gmail.com)
 
 </div>
